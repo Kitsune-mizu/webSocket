@@ -16,6 +16,8 @@
 ---
 
 ### Link Artikel blog
+> **Termasuk demo program dan penjelasan singkat**
+
 > **[ Link Blogger ]** [Apa itu WebSocket?](https://apaituwebsocket.blogspot.com/2026/04/apa-itu-web-socket-eksperiment.html)
 
 ### Plagiarisme
